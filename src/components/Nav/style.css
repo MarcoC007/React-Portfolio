@@ -1,0 +1,21 @@
+#nav-links {
+    padding-left: 15px;
+    float: left;
+}
+
+.buttons:hover {
+    color:gray;
+}
+
+.nav-text {
+    padding: 10px 0 0 10px;
+    color: #ffffff;
+    text-shadow: 2px 2px 5px;
+    font-size: 25px;
+}
+
+.buttons button {
+    background-color: #000;
+    color: #ffffff;
+    padding: 3px;
+}
