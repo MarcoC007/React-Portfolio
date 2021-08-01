@@ -21,7 +21,7 @@ function Nav() {
                             About
                         </button>
                     </a>
-                    <a href='#/Portfolio'>
+                    <a href='#/portfolio'>
                         <button className='btn-no-style'>
                             Portfolio
                         </button>
