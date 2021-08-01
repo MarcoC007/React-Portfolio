@@ -11,17 +11,17 @@ function Nav() {
 
             <div className="col-md-8" id="nav-links">
                 <div className="buttons">
-                    <a href="#/">
+                    <a href="/">
                         <button size="50px" className='btn-no-style'>
                             Home
                         </button>
                     </a>
-                    <a href='#/about'>
+                    <a href='/about'>
                         <button className="btn-no-style">
                             About
                         </button>
                     </a>
-                    <a href='#/portfolio'>
+                    <a href='/portfolio'>
                         <button className='btn-no-style'>
                             Portfolio
                         </button>
