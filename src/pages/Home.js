@@ -15,7 +15,7 @@ function Home() {
         <div className="col-md-6">
         <div id="main-btn">
             <button className="main-btn" type="submit">
-                <a href="/about">
+                <a href="#/about">
                     <label>
                         Enter
                     </label>
