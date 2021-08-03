@@ -9,7 +9,7 @@
 * Bootstrap 
 
 ## Link 
-[Marco's-Portfolio](https://marcoc007.github.io/ReactPorfolio/)
+[Marco's-Portfolio](https://marcoc007.github.io/React-Portfolio/)
 
 ## Screenshots 
 
