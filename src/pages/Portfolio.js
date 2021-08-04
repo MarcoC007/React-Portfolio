@@ -59,7 +59,7 @@ function Portfolio() {
         <PortfolioCard
         className="portfolio-img"
         link="https://marcoc007.github.io/API-Weather/"
-        src="https://user-images.githubusercontent.com/72709524/115159996-e343a600-a063-11eb-818f-2f9cca97475f.png"
+        src="https://user-images.githubusercontent.com/72709524/128122422-b16523ec-8c71-44a6-a080-cf5a0c4173e0.png"
         alt="weatherapp"
         title="Weather App"
         />
