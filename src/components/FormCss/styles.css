@@ -1,0 +1,50 @@
+@media all and (min-width: 480px) {
+
+    .contactForm {
+      padding: 60px 0;
+    }
+    
+    .contactForm h1 {
+      padding-top: 5%;
+      padding-left: 7%;
+      color: white;
+      text-shadow: 2px 2px 5px;
+      font-size: 48px;
+      text-align: center;
+    }
+    
+    .contactForm input {
+      margin: 0 auto;
+      max-width: 680px;
+    }
+    
+    /* #userName {
+      width: 680px;
+      height: 30px;
+    }
+
+    #userEmail {
+      width: 680px;
+      height: 30px;
+    }
+
+    #message {
+      width: 680px;
+      height: 80px;
+    } */
+    .inputGroup label {
+      font-size: 22px;
+    }
+
+    .inputGroup input {
+      text-align: center;
+      width: 680px;
+      height: 40px;
+      padding-top: 2%;
+    }
+
+    .inputGroup textarea {
+      width: 680px;
+      height: 100px;
+    }
+    }

@@ -26,6 +26,11 @@ function Nav() {
                             Portfolio
                         </button>
                     </a>
+                    <a href='#/contact'>
+                        <button className='btn-no-style'>
+                            Contact
+                        </button>
+                    </a>
                 </div>
             </div>
         </nav>

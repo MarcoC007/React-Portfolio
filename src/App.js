@@ -4,6 +4,7 @@ import './App.css';
 import Home from './pages/Home.js';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
 import Nav from './components/Nav/index';
 import Footer from './components/Footer/index';
 
@@ -21,6 +22,9 @@ function App() {
             </Route>
           <Route exact path="/portfolio">
             <Portfolio/>
+            </Route>
+            <Route exact path="/contact">
+              <Contact/>
             </Route>
         </Switch>
         <Footer/>

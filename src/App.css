@@ -55,7 +55,7 @@ header h2 {
   color: #ffffff;
   justify-content: center;
   align-items: center;
-  padding-left: 170%;
+  padding-left: 150%;
   padding-top: 50%;
 }
 
@@ -73,7 +73,7 @@ header h2 {
 
 #main-btn button {
   align-items: center;
-  margin-left: 180%;
+  margin-left: 160%;
   padding-left: 35%;
   padding-right: 30%;
   padding-top: 2%;
@@ -92,4 +92,33 @@ header h2 {
 .about-column {
   padding-left: 10%;
   padding-right: 25%;
+}
+
+.about-header {
+  margin-right: 15%;
+}
+
+@media all and (min-width: 480px) {
+
+.contactForm {
+  padding: 60px 0;
+}
+
+.contactForm h1 {
+  padding-top: 5%;
+  padding-right: 2.5%;
+  color: white;
+  text-shadow: 2px 2px 5px;
+  font-size: 48px;
+  text-align: center;
+}
+
+.contactForm form {
+  margin: 0 auto;
+  max-width: 480px;
+}
+
+.userName {
+  width: 480px;
+}
 }

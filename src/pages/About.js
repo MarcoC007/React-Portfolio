@@ -6,7 +6,7 @@ function About() {
     return (
         <Container className="about-content">
             <header>
-                <h2>About Me</h2>
+                <h2 className="about-header">About Me</h2>
             </header>
             
             <Row id="row" className="about-column">
