@@ -53,15 +53,13 @@ header h2 {
 
 .home {
   color: #ffffff;
-  justify-content: center;
-  align-items: center;
-  padding-left: 150%;
   padding-top: 50%;
+  font-size: 50px;
 }
 
 .home h1 {
-  font-size: 100px;
-  padding-top: 5%;
+  position: relative;
+  left: 143%;
   text-shadow: 2px 2px 5px;
 }
 
@@ -72,12 +70,18 @@ header h2 {
 }
 
 #main-btn button {
-  align-items: center;
-  margin-left: 160%;
-  padding-left: 35%;
-  padding-right: 30%;
-  padding-top: 2%;
-  padding-bottom: 3%;
+  position: relative; 
+  left: 167%;
+  width: 50%;
+  height: 30%;
+}
+
+#main-btn button:hover {
+ font-size: 25px;
+}
+
+#main-btn a {
+  text-decoration: none;
 }
 
 label {
@@ -95,30 +99,6 @@ header h2 {
 }
 
 .about-header {
-  margin-right: 15%;
+  padding-right: 25%;
 }
 
-@media all and (min-width: 480px) {
-
-.contactForm {
-  padding: 60px 0;
-}
-
-.contactForm h1 {
-  padding-top: 5%;
-  padding-right: 2.5%;
-  color: white;
-  text-shadow: 2px 2px 5px;
-  font-size: 48px;
-  text-align: center;
-}
-
-.contactForm form {
-  margin: 0 auto;
-  max-width: 480px;
-}
-
-.userName {
-  width: 480px;
-}
-}

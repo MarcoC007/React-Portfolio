@@ -12,7 +12,7 @@ function Nav() {
             <div className="col-md-8" id="nav-links">
                 <div className="buttons">
                     <a href="#/">
-                        <button size="50px" className='btn-no-style'>
+                        <button className='btn-no-style'>
                             Home
                         </button>
                     </a>
