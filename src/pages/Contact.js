@@ -31,6 +31,13 @@ function ContactForm() {
                     name="message"
                     />
                 </Form.Group>
+                <div className="email-contact">
+                    <a href="mailto:marco2110estrada@gmail.com">
+                        <label>
+                        email: marco2110estrada@gmail.com
+                        </label>
+                        </a>
+                    </div>
             </div>
         </form>
         </div>

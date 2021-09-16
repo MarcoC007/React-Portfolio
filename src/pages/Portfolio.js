@@ -19,6 +19,11 @@ function Portfolio() {
         alt="daily-planer"
         title="Daily Planner"
         />
+        <a href="https://marcoc007.github.io/Daily-Planner/">
+            <label>
+            https://marcoc007.github.io/Daily-Planner/
+            </label>
+        </a>
         </div>
 
         <div className="column">
@@ -29,6 +34,11 @@ function Portfolio() {
         alt="catvsdog"
         title="Cat vs Dog"
         />
+        <a href="https://chorvick.github.io/dogvscat/index.html">
+            <label>
+            https://chorvick.github.io/dogvscat/index.html
+            </label>
+        </a>
         </div>
         </div>
     
@@ -41,6 +51,11 @@ function Portfolio() {
         alt="passwordgenerator"
         title="Password Generator"
         />
+        <a href="https://marcoc007.github.io/Password-Generator/">
+            <label>
+            https://marcoc007.github.io/Password-Generator/
+            </label>
+        </a>
         </div>
 
         <div className="column">
@@ -51,6 +66,11 @@ function Portfolio() {
         alt="notetaker"
         title="Note Taker App"
         />
+        <a href="https://note2000-app.herokuapp.com/notes">
+            <label>
+            https://note2000-app.herokuapp.com/notes
+            </label>
+        </a>
         </div>
         </div>
 
@@ -63,6 +83,11 @@ function Portfolio() {
         alt="weatherapp"
         title="Weather App"
         />
+        <a href="https://marcoc007.github.io/API-Weather/">
+            <label>
+            https://marcoc007.github.io/API-Weather/
+            </label>
+        </a>
         </div>
 
         <div className="column" >
@@ -73,6 +98,11 @@ function Portfolio() {
         alt="teamprofilegenerator"
         title="Team Profile Generator"
         />
+        <a href="https://github.com/MarcoC007/OOP-Team-Profile-Generator">
+            <label>
+            https://github.com/MarcoC007/OOP-Team-Profile-Generator
+            </label>
+        </a>
         </div>
         </div>
 

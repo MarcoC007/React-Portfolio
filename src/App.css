@@ -30,7 +30,7 @@ header h2 {
 }
 
 #portfolio-content {
-  padding-left: 15%;
+  padding-left: 10%;
   padding-top: 4%;
   box-sizing: border-box;
   display: inline-block;
@@ -59,7 +59,7 @@ header h2 {
 
 .home h1 {
   position: relative;
-  left: 143%;
+  left: 113%;
   text-shadow: 2px 2px 5px;
 }
 
@@ -71,7 +71,7 @@ header h2 {
 
 #main-btn button {
   position: relative; 
-  left: 167%;
+  left: 135%;
   width: 50%;
   height: 30%;
 }
@@ -102,3 +102,9 @@ header h2 {
   padding-right: 25%;
 }
 
+.email-contact {
+  color: white;
+  text-decoration: none;
+  padding-top: 3%;
+  font-size: 18px;
+}
