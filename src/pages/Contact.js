@@ -48,11 +48,11 @@ function ContactForm() {
                         </div>
                         <div className="telephone">
                             <a href="tel:929-410-0624">
-                                <label>
+                                    <label>
                                     <p>
                                     tel: 929-410-0624
                                     </p>
-                                </label>
+                                    </label>
                             </a>
                         </div>
                         <div className="email-contact">

@@ -21,7 +21,9 @@ header h2 {
 .img-thumbnail {
   width: 360px;
   height: 360px;
-  padding-left: 50%;
+  position: absolute;
+  left: 10%;
+  border-radius: 100%;
 }
 
 .portfolio-img {
@@ -102,6 +104,24 @@ header h2 {
   padding-right: 25%;
 }
 
+.about-paragraph p {
+  position: absolute;
+  color:white;
+  font-size: 35px;
+
+}
+
+.paragraph1 {
+  padding-left: 28%;
+  padding-right: 30%;
+}
+
+.paragraph2 {
+  padding-top: 7%;
+  padding-left: 28%;
+  padding-right: 30%;
+}
+
 #contact-paragraph {
   position:absolute;
   right: 55%;
@@ -140,6 +160,7 @@ header h2 {
   font-size: 30px;
   margin-right: 5%;
   margin-left: 5%;
+  text-decoration: none;
 }
 
 .email-contact p{
@@ -147,5 +168,22 @@ header h2 {
   font-size: 30px;
   margin-right: 5%;
   margin-left: 5%;
+  text-decoration: none;
 }
 
+.skills {
+  color: white;
+  position: absolute;
+  right: 15%;
+}
+
+.skills h2 {
+  position: absolute;
+  top: -33%;
+  font-size: 40px;
+}
+
+.skills ul {
+   font-size: 30px;
+   margin-bottom: 3%;
+}

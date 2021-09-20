@@ -19,15 +19,46 @@ function About() {
         
         
         <Col  lg={{order: 8}}>
-
-            <p className="paragraph">
-                My name is Marco Estrada and I am 27 years old, I have grown up and raised in Guatemala, I moved to New
-                York 4 years ago and for 2 years I have been living in Morrisville, PA. I am currently working in a
-                restaurant and my hobbies are watching sports games, reading books, drawing and especially learning about
-                programming and that is why I have started to follow the coding path.
-            </p>
-        
+            <div className="about-paragraph">
+                <p className="paragraph1">
+                    My name is Marco, I am a Front End Developer who loves learning new things, I try always to do my best,
+                    in the future I would like to learn about new technologies.
+                    </p>
+                <p className="paragraph2">
+                   I am challenger who doesn't give up easily, I have many habits like playing videogames, reading books and drawing.
+                   I am fluent in Spanish and English, learn new languages is my passion and I enjoy doing it.
+               </p>
+                
+           </div>
         </Col>
+        </Row>
+        <Row>
+            <Col lg={{order: 8}} className="skills">
+                <h2>Skills:</h2>
+                <ul>
+                    <li>
+                        HTML5
+                    </li>
+                    <li>
+                        CSS3
+                    </li>
+                    <li>
+                        JavaScript
+                    </li>
+                    <li>
+                        Node
+                    </li>
+                    <li>
+                        Express
+                    </li>
+                    <li>
+                        MySQL
+                    </li>
+                    <li>
+                        React
+                    </li>
+                </ul>
+            </Col>
         </Row>
         </Container>
     )
