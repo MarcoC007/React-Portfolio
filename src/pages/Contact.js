@@ -6,7 +6,7 @@ function ContactForm() {
     return (
     <div className="contactForm">
         <h1>Contact</h1>
-        <form>
+        {/* <form>
             <div className="inputGroup">
                 <Form.Group size='lg' controlId="userName">
                     <Form.Label>Name:</Form.Label>
@@ -31,15 +31,41 @@ function ContactForm() {
                     name="message"
                     />
                 </Form.Group>
-                <div className="email-contact">
+                
+            </div>
+        </form> */}
+        <div className="row">
+            <div className="col-md-6" id="contact-paragraph">
+            <p>
+               Do you have a question?
+            </p>
+                    </div>
+                    <div className="col-md-6" id="contact-details">
+                        <div className="contact">
+                            <p>
+                                Please do not hesitate to contact me.
+                            </p>
+                        </div>
+                        <div className="telephone">
+                            <a href="tel:929-410-0624">
+                                <label>
+                                    <p>
+                                    tel: 929-410-0624
+                                    </p>
+                                </label>
+                            </a>
+                        </div>
+                        <div className="email-contact">
                     <a href="mailto:marco2110estrada@gmail.com">
                         <label>
+                        <p>    
                         email: marco2110estrada@gmail.com
+                        </p>
                         </label>
                         </a>
                     </div>
-            </div>
-        </form>
+                    </div>
+        </div>
         </div>
     )
 }
