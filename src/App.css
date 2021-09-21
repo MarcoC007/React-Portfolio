@@ -32,8 +32,9 @@ header h2 {
 }
 
 #portfolio-content {
-  padding-left: 10%;
-  padding-top: 4%;
+  position: absolute;
+  left: 25%;
+  padding-top: 10%;
   box-sizing: border-box;
   display: inline-block;
 }

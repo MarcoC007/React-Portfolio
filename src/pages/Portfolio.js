@@ -14,14 +14,14 @@ function Portfolio() {
         <div className="column">     
         <PortfolioCard
         className="portfolio-img"
-        link="https://marcoc007.github.io/Daily-Planner/"
-        src="https://user-images.githubusercontent.com/72709524/109371584-9f0e0380-7873-11eb-9fb6-28581b628450.png"
+        link="https://marcoc007.github.io/Web-APIs-Code-Quiz/"
+        src="https://user-images.githubusercontent.com/72709524/134113194-0a281f59-bece-4ce1-b94a-3073e170682a.png"
         alt="daily-planer"
-        title="Daily Planner"
+        title="Code Quiz Game"
         />
-        <a href="https://marcoc007.github.io/Daily-Planner/">
+        <a href="https://github.com/MarcoC007/Web-APIs-Code-Quiz">
             <label>
-            https://marcoc007.github.io/Daily-Planner/
+            Github:https://github.com/MarcoC007/Web-APIs-Code-Quiz
             </label>
         </a>
         </div>
@@ -34,9 +34,9 @@ function Portfolio() {
         alt="catvsdog"
         title="Cat vs Dog"
         />
-        <a href="https://chorvick.github.io/dogvscat/index.html">
+        <a href="https://github.com/MarcoC007/dogvscat">
             <label>
-            https://chorvick.github.io/dogvscat/index.html
+            Github:https://github.com/MarcoC007/dogvscat
             </label>
         </a>
         </div>
@@ -51,9 +51,9 @@ function Portfolio() {
         alt="passwordgenerator"
         title="Password Generator"
         />
-        <a href="https://marcoc007.github.io/Password-Generator/">
+        <a href="https://github.com/MarcoC007/Password-Generator">
             <label>
-            https://marcoc007.github.io/Password-Generator/
+            Github:https://github.com/MarcoC007/Password-Generator
             </label>
         </a>
         </div>
@@ -61,14 +61,14 @@ function Portfolio() {
         <div className="column">
         <PortfolioCard
         className="portfolio-img"
-        link="https://note2000-app.herokuapp.com/notes"
-        src="https://user-images.githubusercontent.com/72709524/115158515-8395cc80-a05c-11eb-832d-d0c7d9cf66e4.png"
+        link="https://github.com/MarcoC007/ReadMeApp"
+        src="https://user-images.githubusercontent.com/72709524/134113714-ffd7fbc9-481f-4cec-9b82-b69a6c6359e3.png"
         alt="notetaker"
-        title="Note Taker App"
+        title="ReadMe App"
         />
-        <a href="https://note2000-app.herokuapp.com/notes">
+        <a href="https://github.com/MarcoC007/ReadMeApp">
             <label>
-            https://note2000-app.herokuapp.com/notes
+            Github:https://github.com/MarcoC007/ReadMeApp
             </label>
         </a>
         </div>
@@ -83,9 +83,9 @@ function Portfolio() {
         alt="weatherapp"
         title="Weather App"
         />
-        <a href="https://marcoc007.github.io/API-Weather/">
+        <a href="https://github.com/MarcoC007/API-Weather">
             <label>
-            https://marcoc007.github.io/API-Weather/
+            Github:https://github.com/MarcoC007/API-Weather
             </label>
         </a>
         </div>
