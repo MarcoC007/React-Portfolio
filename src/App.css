@@ -29,6 +29,7 @@ header h2 {
 .portfolio-img {
   width: 360px;
   height: 360px;
+  background-color: black;
 }
 
 #portfolio-content {
@@ -39,6 +40,31 @@ header h2 {
   display: inline-block;
 }
 
+.card {
+  background-color: black;
+  height: 69.5%;
+}
+
+.portfolio-details {
+  background-color: black;
+  color:white;
+  width: 100%;
+}
+
+.portofolio-details h4 {
+  position: absolute;
+  left: 2%;
+}
+
+.portfolio-details li {
+ display: inline-block;
+ margin: 4px;
+}
+
+.portfolio-details a{
+  text-decoration: none;
+  padding-top: -50%;
+}
 #row {
   display: flex;
   padding: 0 20px;
@@ -164,11 +190,19 @@ header h2 {
   text-decoration: none;
 }
 
+.telephone a {
+  text-decoration: none;
+}
+
 .email-contact p{
   color: white;
   font-size: 30px;
   margin-right: 5%;
   margin-left: 5%;
+  text-decoration: none;
+}
+
+.email-contact a{
   text-decoration: none;
 }
 

@@ -7,7 +7,8 @@ function PortfolioCard(props) {
                 <img className='card-img-top' height="360px" width="360px" src={props.src} alt={props.alt}/>
             </a>
             <div className='card-body'>
-                <div className="card-title" style={{fontSize: '20px', color:'white'}}>{props.title}</div>
+                <div className="card-title" ></div>
+                <h2 style={{ color:'white', backgroundColor:'black', height: '100%', paddingBottom: '7%'}}>{props.title}</h2>
             </div>
         </div>
     )

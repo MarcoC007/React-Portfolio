@@ -19,11 +19,27 @@ function Portfolio() {
         alt="daily-planer"
         title="Code Quiz Game"
         />
+        
+        <div className="portfolio-details">
+    
         <a href="https://github.com/MarcoC007/Web-APIs-Code-Quiz">
-            <label>
-            Github:https://github.com/MarcoC007/Web-APIs-Code-Quiz
+             <label>
+             <h4>
+                 Github Link
+            </h4>
             </label>
-        </a>
+            </a>
+            
+            <h4>Technologies</h4>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+    
+           
+
+        </div>
         </div>
 
         <div className="column">
