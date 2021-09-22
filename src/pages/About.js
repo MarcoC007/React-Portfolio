@@ -21,7 +21,7 @@ function About() {
         <Col  lg={{order: 8}}>
             <div className="about-paragraph">
                 <p className="paragraph1">
-                    My name is Marco, I am a Front End Developer who loves learning new things, I try always to do my best,
+                    My name is Marco, I am a Full Stack Developer who loves learning new things, I try always to do my best,
                     in the future I would like to learn about new technologies.
                     </p>
                 <p className="paragraph2">

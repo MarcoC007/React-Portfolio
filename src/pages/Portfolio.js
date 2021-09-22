@@ -50,11 +50,21 @@ function Portfolio() {
         alt="catvsdog"
         title="Cat vs Dog"
         />
-        <a href="https://github.com/MarcoC007/dogvscat">
-            <label>
-            Github:https://github.com/MarcoC007/dogvscat
-            </label>
-        </a>
+        <div className="portfolio-details">
+            <a href="https://github.com/MarcoC007/dogvscat">
+                <label>
+                    <h4>
+                        Github Link
+                    </h4>
+                </label>
+            </a>
+            <h4>Technologies</h4>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </div>
         </div>
         </div>
     
@@ -67,30 +77,53 @@ function Portfolio() {
         alt="passwordgenerator"
         title="Password Generator"
         />
-        <a href="https://github.com/MarcoC007/Password-Generator">
-            <label>
-            Github:https://github.com/MarcoC007/Password-Generator
-            </label>
-        </a>
+    
+        <div className="portfolio-details">
+            <a href="https://github.com/MarcoC007/Password-Generator">
+                <label>
+                    <h4>
+                        Github Link
+                    </h4>
+                </label>
+            </a>
+            <h4>Technologies</h4>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </div>
         </div>
 
         <div className="column">
         <PortfolioCard
         className="portfolio-img"
-        link="https://github.com/MarcoC007/ReadMeApp"
-        src="https://user-images.githubusercontent.com/72709524/134113714-ffd7fbc9-481f-4cec-9b82-b69a6c6359e3.png"
-        alt="notetaker"
-        title="ReadMe App"
+        link="https://boardmatch.herokuapp.com/"
+        src="https://user-images.githubusercontent.com/72709524/134289690-72fd8bb6-327f-4b05-852e-0e369fae238c.png"
+        alt="boardmatch"
+        title="Board Match"
         />
-        <a href="https://github.com/MarcoC007/ReadMeApp">
+         <div className="portfolio-details">
+        <a href="https://github.com/MarcoC007/BoardMatch">
             <label>
-            Github:https://github.com/MarcoC007/ReadMeApp
+            <h4>
+                Github Link
+            </h4>
             </label>
         </a>
+        <h4>Technologies</h4>
+        <ul>
+            <li>React</li>
+            <li>Node JS</li>
+            <li>MySQL</li>
+            <li>Express</li>
+            <li>Bootstrap</li>
+        </ul>
+         </div>
         </div>
         </div>
 
-        <div className="row" id="row">
+        {/* <div className="row" id="row">
         <div className="column">
         <PortfolioCard
         className="portfolio-img"
@@ -120,7 +153,7 @@ function Portfolio() {
             </label>
         </a>
         </div>
-        </div>
+        </div> */}
 
         </div>
         </div>

@@ -29,15 +29,23 @@ header h2 {
 .portfolio-img {
   width: 360px;
   height: 360px;
-  background-color: black;
+  
+}
+
+.card-img-top {
+  border-radius: 5%; 
 }
 
 #portfolio-content {
   position: absolute;
   left: 22%;
-  padding-top: 10%;
+  padding-top: 5%;
   box-sizing: border-box;
   display: inline-block;
+}
+
+.title {
+  align-items: center;
 }
 
 .card {
@@ -48,12 +56,19 @@ header h2 {
 .portfolio-details {
   background-color: black;
   color:white;
-  width: 100%;
+  padding-left: 2%;
+  padding-bottom: 1%;
+  width: 98%;
+  border-radius: 5%;
 }
 
 .portofolio-details h4 {
   position: absolute;
   left: 2%;
+}
+
+.portfolio-details h4:hover {
+  text-shadow: 2px 2px 5px;
 }
 
 .portfolio-details li {
@@ -194,6 +209,10 @@ header h2 {
   text-decoration: none;
 }
 
+.telephone a:hover {
+  text-shadow: 2px 2px 5px;
+}
+
 .email-contact p{
   color: white;
   font-size: 30px;
@@ -204,6 +223,10 @@ header h2 {
 
 .email-contact a{
   text-decoration: none;
+}
+
+.email-contact a:hover {
+  text-shadow: 2px 2px 5px;
 }
 
 .skills {
